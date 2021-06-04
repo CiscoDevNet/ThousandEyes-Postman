@@ -9,7 +9,7 @@ you can assure the user experience is as expected, and know what to remediate wh
 
 
 ## What's in the Postman collection
-- A Sandbox access is available [here](https://www.thousandeyes.com/signup/). 
+- A Sandbox access is available [here](https://www.thousandeyes.com/signup/).
 - The collection correlates with the official ThousandEyes [API documentation](https://developer.thousandeyes.com/v6/).
 
 **ThousandEyes Endpoints** covered in this collection
